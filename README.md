@@ -1,7 +1,7 @@
-# zadaca001
+# Zadaća001
 
 
--- Zadatak je napraviti malu Vue.js aplikaciju koja će prikazivati commitove vuejs repozitorija.
+Zadatak je napraviti malu Vue.js aplikaciju koja će prikazivati commitove vuejs repozitorija.
 
 
 ## Project setup
